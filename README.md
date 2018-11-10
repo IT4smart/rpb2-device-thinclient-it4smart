@@ -1,0 +1,1 @@
+# rpb2-device-thinclient-it4smart
