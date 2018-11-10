@@ -1,0 +1,10 @@
+Origin: IT4smart
+Package: rpb2-device-thinclient-it4smart
+Version: 1.0.0
+Section: metapackage
+Essential: No
+Depends: base-files-thinclient-it4smart, startpage, configpage
+Priority: required
+Architecture: armhf
+Maintainer: IT4smart GmbH <support@it4smart.eu>
+Desription: Raspberry Pi 2 Thinclient metapackage
